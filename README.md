@@ -80,7 +80,11 @@
 
 <br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" width="300" height="200">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false&card_width=500" width="300" height="200">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" width="700" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false" height="150" alt="streak graph" />
+</div>
+
