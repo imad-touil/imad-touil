@@ -6,7 +6,7 @@
 <img width=100% src="https://badge.mediaplus.ma/greenbinary/imatouil"/>
 
 <div align="center">
-  <h3 font-size="15px">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+  <h3 font-size="15px" color="#000000">⚒️ Languages-Frameworks-Tools ⚒️</h3>
   <img src="./images/skills/HTML.svg" height="50" alt="vscode logo"  />
   <img width="5">
   <img src="./images/skills/CSS.svg" height="50" alt="CSS logo"  />
@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div align="center">
-  <h3 font-size="15px">🌐 Contact Me 🌐</h3>
+  <h3 font-size="15px" color="#000000">🌐 Contact Me 🌐</h3>
   <a href="https://www.linkedin.com/in/imad-touil-700499301/?trk=opento_sprofile_details" style="text-decoration: none !important;">
     <img src="./images/social/LinkedIn.svg" width="70" height="50" alt="linkedin logo"  />
   </a>
@@ -95,4 +95,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{imad-touil}/count.svg" /></p> 
 <br></div>
+
 <img width=100% src="./images/dwave.png"/>
