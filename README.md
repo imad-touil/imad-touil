@@ -80,14 +80,13 @@
 
 <br clear="both">
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&show_icons=true&hide_border=false&count_private=true&bg_color=00f70e" height="150" alt="stats graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&layout=compact&hide_border=false&bg_color=00f70e" height="150" alt="languages graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&hide_border=false&background=00f70e" height="150" alt="streak graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false" height="150" alt="streak graph" />
+</div>
 
 ###
   
