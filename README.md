@@ -29,5 +29,9 @@
   
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="34" alt="bash logo" />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang&theme=dark&perline=15" alt="My Skills" /></a>
+  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"/>
+  <img src="https://skillicons.dev/icons?i=python" height="34" alt="python logo"/>
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"/>
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"/>
+  <img src="https://skillicons.dev/icons?i=vim" height="34" alt="vim logo"/>
 </div>
