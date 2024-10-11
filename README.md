@@ -6,32 +6,14 @@
 <img width=100% src="https://badge.mediaplus.ma/greenbinary/imatouil"/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34" alt="bootstrap logo"  />
-  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" alt="vuejs logo"  />
-   -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="c logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
+  <img src="./images/skills/HTML.svg" height="34" alt="vscode logo"  />
   <img width="5">
-  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
+  <img src="./images/skills/CSS.svg" height="34" alt="vscode logo"  />
   <img width="5">
-  
-  <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="34" alt="bash logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"/>
-  <img src="https://skillicons.dev/icons?i=python" height="34" alt="python logo"/>
-  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"/>
-  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"/>
-  <img src="https://skillicons.dev/icons?i=vim" height="34" alt="vim logo"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg">
+  <img src="./images/skills/JavaScript.svg" height="34" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/React-Dark.svg" height="34" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Bootstrap.svg" height="34" alt="vscode logo"  />
+  <img width="5">
 </div>
