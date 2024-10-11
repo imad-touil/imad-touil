@@ -22,10 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="34" alt="jira logo"  />
-  
+  <img width="5">
   <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
+  <img width="5">
   
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="34" alt="bash logo" />
