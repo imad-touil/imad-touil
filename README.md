@@ -6,14 +6,40 @@
 <img width=100% src="https://badge.mediaplus.ma/greenbinary/imatouil"/>
 
 <div align="center">
-  <img src="./images/skills/HTML.svg" height="34" alt="vscode logo"  />
+  <img src="./images/skills/HTML.svg" height="40" alt="vscode logo"  />
   <img width="5">
-  <img src="./images/skills/CSS.svg" height="34" alt="vscode logo"  />
+  <img src="./images/skills/CSS.svg" height="40" alt="vscode logo"  />
   <img width="5">
-  <img src="./images/skills/JavaScript.svg" height="34" alt="vscode logo"  />
+  <img src="./images/skills/JavaScript.svg" height="40" alt="vscode logo"  />
   <img width="5">
-  <img src="./images/skills/React-Dark.svg" height="34" alt="vscode logo"  />
+  <img src="./images/skills/React-Dark.svg" height="40" alt="vscode logo"  />
   <img width="5">
-  <img src="./images/skills/Bootstrap.svg" height="34" alt="vscode logo"  />
+  <img src="./images/skills/Bootstrap.svg" height="40" alt="vscode logo"  />
   <img width="5">
+  <img src="./images/skills/PHP-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Python-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/PyCharm-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Figma-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Notion-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <br>
+  <img src="./images/skills/Linux-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Bash-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/VIM-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Git.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/Github-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/VSCode-Dark.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/C.svg" height="40" alt="vscode logo"  />
+  <img width="5">
+  <img src="./images/skills/GoLang.svg" height="40" alt="vscode logo"  />
 </div>
