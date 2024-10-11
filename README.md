@@ -75,3 +75,11 @@
     <img src="./images/social/whatsapp.svg" width="70" height="50" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+![imad-touil's Stats](https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![imad-touil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false)
+![imad-touil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
