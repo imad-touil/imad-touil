@@ -28,5 +28,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
   
   <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python&theme=dark&perline=15" alt="My Skills" /></a>
+  <img src="https://skillicons.dev/icons?i=bash" height="34" alt="bash logo" />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
