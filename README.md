@@ -33,4 +33,5 @@
   <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"/>
   <img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"/>
   <img src="https://skillicons.dev/icons?i=vim" height="34" alt="vim logo"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg">
 </div>
