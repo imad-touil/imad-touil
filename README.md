@@ -88,5 +88,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false" height="150" alt="streak graph" />
 </div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=imad-touil&color=blue&style=flat-square)
-
+###
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{imad-touil}/count.svg" /></p> 
+<br></div>
