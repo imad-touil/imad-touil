@@ -6,6 +6,7 @@
 <img width=100% src="https://badge.mediaplus.ma/greenbinary/imatouil"/>
 
 <div align="center">
+  <h3 >⚒️ Languages-Frameworks-Tools ⚒️</h3>
   <img src="./images/skills/HTML.svg" height="60" alt="vscode logo"  />
   <img width="5">
   <img src="./images/skills/CSS.svg" height="60" alt="CSS logo"  />
@@ -41,4 +42,35 @@
   <img src="./images/skills/C.svg" height="60" alt="C logo"  />
   <img width="5">
   <img src="./images/skills/GoLang.svg" height="60" alt="GoLang logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/imad-touil-700499301/?trk=opento_sprofile_details" style="text-decoration: none !important;">
+    <img src="./images/social/LinkedIn.svg" width="57" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@imatouil" style="text-decoration: none !important;">
+    <img src="./images/social/Discord.svg" width="57" height="35" alt="coding game logo"  />
+  </a>
+  <a href="mailto:imadtouil.it@gmail.com" style="text-decoration: none !important;">
+    <img src="./images/social/Gmail-Dark.svg" width="57" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/imad__touil" style="text-decoration: none !important;">
+    <img src="./images/social/x.png" width="57" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/touil.dev" style="text-decoration: none !important;">
+    <img src="./images/social/Instagram.svg" width="57" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://web.facebook.com/ImadTouil26/" style="text-decoration: none !important;">
+    <img src="./images/social/facebook.svg" width="57" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/+212767097748" style="text-decoration: none !important;">
+    <img src="./images/social/telegram.svg" width="57" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/+212767097748" style="text-decoration: none !important;">
+    <img src="./images/social/whatsapp.svg" width="57" height="35" alt="whatsapp logo"  />
+  </a>
 </div>
