@@ -81,12 +81,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&text_color=00f70e" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imad-touil&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&text_color=00f70e" height="150" alt="languages graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imad-touil&theme=vue-dark&hide_border=false&currStreakLabel=00f70e&sideLabels=00f70e&dates=00f70e" height="150" alt="streak graph" />
 </div>
+
 
 ###
   
